@@ -3,6 +3,8 @@
 **Overview**
 
 This repository contains Python code for evaluating different pre-trained models for text sentence similarity using the Topsis method. The evaluation is based on user-defined criteria such as accuracy, speed, and versatility.
+I have used pre-trained models from hugging face.
+Apply topsis to find out best pre-trained model.
 
 **Files**
 
